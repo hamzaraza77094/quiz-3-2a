@@ -1,4 +1,4 @@
-# Quiz 4.2.a: Threads synchonization
+# Quiz 3.2.a: Threads synchonization
 
 Write a C++ program that synchronizes two threads to replicate a TCP 2-way handshake.
 
